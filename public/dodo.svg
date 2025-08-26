@@ -1,0 +1,23 @@
+<!-- /public/dodo.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="TaskFlow Dodo">
+  <!-- Body -->
+  <ellipse cx="28" cy="36" rx="18" ry="16" fill="#fff"></ellipse>
+  <!-- Wing -->
+  <ellipse cx="24" cy="36" rx="8" ry="6" fill="#fff"></ellipse>
+  <!-- Tail feathers -->
+  <circle cx="12" cy="30" r="3" fill="#fff"></circle>
+  <circle cx="9" cy="36" r="3" fill="#fff"></circle>
+  <circle cx="12" cy="42" r="3" fill="#fff"></circle>
+  <!-- Head -->
+  <circle cx="46" cy="24" r="8" fill="#fff"></circle>
+  <!-- Beak -->
+  <path d="M52 21c5 1 8 3 8 5s-3 4-8 5c-2 .4-3-.6-3-2v-6c0-1.4 1-2.4 3-2z" fill="#fff"></path>
+  <!-- Eye -->
+  <circle cx="44.5" cy="23.5" r="1.6" fill="#026ce4ff"></circle>
+  <!-- Legs -->
+  <rect x="22" y="46" width="4" height="9" rx="1" fill="#fff"></rect>
+  <rect x="30" y="46" width="4" height="9" rx="1" fill="#fff"></rect>
+  <!-- Feet -->
+  <rect x="19.5" y="55" width="9" height="2.5" rx="1" fill="#fff"></rect>
+  <rect x="27.5" y="55" width="9" height="2.5" rx="1" fill="#fff"></rect>
+</svg>

@@ -1,0 +1,35 @@
+.logo-container span{
+    font-size: x-large;
+/* CSS Variables */
+}
+nav a{
+    font-size: large;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: 1px solid transparent;
+}
+nav a:hover{
+    /* background-color: var(--secondary-color);
+    color: var(--primary-color-dark); */
+    border-color: var(--secondary-color);
+    position: relative;
+    top: -2px;
+}
+.auth-buttons button{
+    font-size: large;
+    cursor: pointer;
+}
+.auth-buttons .signup-button{
+    border: 1px solid var(--secondary-color);
+}
+.auth-buttons .signup-button:hover{
+    border-color: var(--accent-color);
+    background-color: var(--accent-color);
+    color: var(--primary-color-dark);
+}
+.auth-buttons .login-button{
+    border: 1px solid transparent;
+}
+.auth-buttons .login-button:hover{
+    border-color: var(--secondary-color);
+}
